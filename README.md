@@ -11,7 +11,7 @@
 
 - [B站-klipper上位机视频 https://space.bilibili.com/646334431/lists/4584052?type=series](https://space.bilibili.com/646334431/lists/4584052?type=series)
 
-- [抖音-klipper上位机视频 https://v.douyin.com/if9CUjWm/](https://v.douyin.com/iAJgrt8c/)
+- [抖音-klipper上位机视频 https://v.douyin.com/if9QKaxj/](https://v.douyin.com/iAJgrt8c/)
 
 ## 3. 关注我了解最新动态
 
