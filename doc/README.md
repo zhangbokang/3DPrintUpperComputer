@@ -8,6 +8,8 @@
 
 **解决办法：通过数据线，在串口命令行连接WiFi**
 
+[视频教程 https://www.bilibili.com/video/BV1skNoeuEcE/](https://www.bilibili.com/video/BV1skNoeuEcE/)
+
 1. 连接数据线到电脑
 
 (带hub板的把跳线帽全部拔掉，然后接12-24v电源开机)
