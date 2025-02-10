@@ -29,7 +29,7 @@ https://www.alipan.com/s/ZfeDHSdLJ9P
 提取码: 7b0e
 
 
-![进入终端方法](vx_images/253972335076396.jpg =800x)
+![进入终端方法](vx_images/253972335076396.jpg)
 
 4. 查看可连接的WiFi
 
