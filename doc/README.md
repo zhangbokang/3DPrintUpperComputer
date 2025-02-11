@@ -35,9 +35,18 @@ https://www.alipan.com/s/ZfeDHSdLJ9P
 
 4. 查看可连接的WiFi
 
+```shell
+sudo nmcli dev wifi list
+```
+
 ![查看WiFi列表](vx_images/64143348226662.png)
 
 5. 连接WiFi
+
+```shell
+# 替换wifi_name wifi_passwd为你自己的wifi名和密码
+sudo nmcli dev wifi connect wifi_name password wifi_passwd
+```
 
 ![连接WiFi](vx_images/242343185681155.png)
 
