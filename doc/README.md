@@ -67,6 +67,6 @@ sudo nmcli dev wifi connect wifi_name password wifi_passwd
 [include fluidd.cfg]
 ```
 
-> PS：可以点击`此处`两个字进入文档，根据文档了解相关配置。
+> PS：如果想了解更深入，可以点击`此处`两个字进入文档，根据文档了解相关配置。
 
 
