@@ -67,6 +67,11 @@ sudo nmcli dev wifi connect wifi_name password wifi_passwd
 [include fluidd.cfg]
 ```
 
-> PS：如果想了解更深入，可以点击`此处`两个字进入文档，根据文档了解相关配置。
 
+#### 1.2.2. Q2
 
+连接下位机后连接问题
+
+**注意，一定要用好点的线，不要用淘宝几块的那种，推荐京东或哪里买品牌的数据线，尤其是需要比较长的时候更要注意！**
+
+![](vx_images/132102427311949.png)
