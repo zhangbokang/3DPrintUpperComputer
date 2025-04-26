@@ -24,4 +24,10 @@ sudo cp /home/auto_can_up.sh /home/auto_can_up.sh.bak
 sudo cp -f /home/umeko/auto_can_up.sh /home/auto_can_up.sh
 ```
 
-4. 断电重启
+4. 添加执行权限
+
+```
+sudo chmod a+x /home/auto_can_up.sh
+```
+
+5. 断电重启
