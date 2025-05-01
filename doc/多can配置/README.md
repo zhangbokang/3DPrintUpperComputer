@@ -8,6 +8,8 @@
 
 使用目录中的`auto_can_up.sh`替换`/home/auto_can_up.sh`文件即可
 
+[auto_can_up.sh](./auto_can_up.sh)
+
 ### 1.2. 步骤
 
 1. 上传`auto_can_up.sh`文件
